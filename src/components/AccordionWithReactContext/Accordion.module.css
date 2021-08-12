@@ -1,0 +1,18 @@
+.Accordion {
+  width: 100%;
+}
+
+.Accordion__header {
+  padding: 10px;
+  border: 1px solid #444444;
+  background: #fff;
+  cursor: pointer;
+}
+
+.Accordion__content {
+  background: #efefef;
+  padding: 20px 10px;
+  border: 1px solid #444444;
+}
+
+
